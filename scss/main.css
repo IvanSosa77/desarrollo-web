@@ -1,0 +1,147 @@
+.logo {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+body {
+  background-image: -webkit-gradient(linear, left top, right top, from(brown), to(white));
+  background-image: linear-gradient(to right, brown, white);
+}
+
+.logo {
+  background-image: -webkit-gradient(linear, left top, right top, from(brown), to(white));
+  background-image: linear-gradient(to right, brown, white);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.logo {
+  text-align: center;
+}
+
+header {
+  margin-top: 2.5%;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+#carr {
+  margin: auto;
+  margin-top: 1rem;
+}
+
+#carr img {
+  border-radius: 2rem;
+}
+
+.hambur ul {
+  list-style: none;
+}
+
+.hambur ul a {
+  color: white;
+  text-decoration: none;
+}
+
+.hambur ul a li:hover {
+  color: white;
+  background-color: brown;
+  width: 20%;
+}
+
+/*REGIONES*/
+.title {
+  text-align: center;
+  border: 1px solid black;
+  background-color: teal;
+  margin: 2% 25% 1% 25%;
+  border-radius: 25em;
+}
+
+.pP {
+  margin-top: 2rem;
+  background-image: -webkit-gradient(linear, right top, left top, from(lightblue), to(white));
+  background-image: linear-gradient(to left, lightblue, white);
+}
+
+/*CIUDAD AUTONOMA*/
+.Noticias {
+  margin: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  width: 100%;
+  font-family: "Raleway", sans-serif;
+}
+
+.card {
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: auto;
+  margin-top: 1rem;
+  border-radius: 5px;
+  width: 100%;
+  height: auto;
+  background-color: white;
+  -webkit-box-shadow: 0 20px 20px 0 rgba(0, 0, 0, 0.2);
+          box-shadow: 0 20px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card:hover {
+  -webkit-box-shadow: 0 10px 80px 0 rgba(0, 0, 0, 0.2);
+          box-shadow: 0 10px 80px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card img {
+  border-radius: 5px 5px 0 0;
+  width: 100%;
+  height: 300px;
+  margin: 0;
+}
+
+.cont {
+  padding: 2px 16px;
+  margin: 0;
+}
+
+.cont p {
+  margin: 0 0 3% 0;
+}
+
+.cont p h2 {
+  margin: 3% 0;
+}
+
+/*FOOTER*/
+.abajo {
+  margin-top: 1rem;
+  background-image: -webkit-gradient(linear, left top, right top, from(black), to(lightgrey));
+  background-image: linear-gradient(to right, black, lightgrey);
+}
+
+.abajo ul {
+  width: 100%;
+  list-style: none;
+  text-align: center;
+}
+
+.abajo ul a {
+  color: white;
+  text-decoration: none;
+}
+
+.abajo ul a a:hover {
+  color: tomato;
+}
+/*# sourceMappingURL=main.css.map */

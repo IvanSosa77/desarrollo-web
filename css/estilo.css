@@ -18,15 +18,14 @@ h1 {
   font-size: 1em; }
 
 #imagenLogo {
-  width: 30%; }
+  width: 40%; }
 
 .logo {
   text-align: center; }
 
 header {
   margin-top: 2.5%;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  margin-bottom: 3em; }
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif; }
 
 #carr {
   margin: auto;

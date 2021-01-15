@@ -22,7 +22,7 @@ h1 {
 
 @media (max-width: 700px) {
   #imagenLogo {
-    width: 50%; } }
+    width: auto; } }
 
 .logo {
   text-align: center; }

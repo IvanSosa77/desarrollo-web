@@ -20,6 +20,10 @@ h1 {
 #imagenLogo {
   width: 40%; }
 
+@media (max-width: 600px) {
+  #imagenLogo {
+    width: 50%; } }
+
 .logo {
   text-align: center; }
 

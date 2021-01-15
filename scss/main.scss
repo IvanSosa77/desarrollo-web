@@ -22,6 +22,12 @@ h1{
     width: 40%;
 }
 
+@media (max-width: 600px) {
+    #imagenLogo{
+        width: 50%;
+    }
+}
+
 
 
 .logo{

@@ -18,11 +18,7 @@ h1 {
   font-size: 1em; }
 
 #imagenLogo {
-  width: 40%; }
-
-@media (max-width: 700px) {
-  #imagenLogo {
-    width: auto; } }
+  width: auto; }
 
 .logo {
   text-align: center; }

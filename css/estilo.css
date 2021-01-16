@@ -17,12 +17,11 @@ h1 {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   font-size: 1em; }
 
-#imagenLogo {
-  width: 40%; }
-
 .logo {
   text-align: center;
   margin-top: 1em; }
+  .logo img {
+    width: 30%; }
 
 header {
   margin-top: 2.5%;

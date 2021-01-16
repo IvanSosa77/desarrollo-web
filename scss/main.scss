@@ -18,9 +18,7 @@ h1{
 }
 
 
-#imagenLogo{
-    width: 40%;
-}
+
 
 
 
@@ -28,6 +26,9 @@ h1{
 .logo{
     text-align: center;
     margin-top: 1em;
+    img{
+        width: 30%;
+    }
 }
 
 

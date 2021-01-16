@@ -27,7 +27,7 @@ h1{
 
 .logo{
     text-align: center;
-    margin-top: 2em;
+    margin-top: 1em;
 }
 
 
@@ -136,14 +136,13 @@ img{
     flex-wrap: wrap;
     justify-content: space-around;
     width: 100%;
-    font-family: $tipografyciudad;
+    
     
 }
 
 
 .card{
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    margin: auto;
     margin-top: 1rem;
     border-radius: 5px;
     width: 100%;
@@ -239,7 +238,8 @@ h2{
 
 .abajo{
     margin-top: 1rem;
-    background-image: $mylineal;
+    background-color: black;
+    font-family: $tipografiainferior;
 
 ul{
     width: 100%;

@@ -22,7 +22,7 @@ h1 {
 
 .logo {
   text-align: center;
-  margin-top: 2em; }
+  margin-top: 1em; }
 
 header {
   margin-top: 2.5%;
@@ -93,12 +93,10 @@ header {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-around;
-  width: 100%;
-  font-family: "Raleway", sans-serif; }
+  width: 100%; }
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  margin: auto;
   margin-top: 1rem;
   border-radius: 5px;
   width: 100%;
@@ -162,7 +160,8 @@ header {
 /*FOOTER*/
 .abajo {
   margin-top: 1rem;
-  background-image: linear-gradient(to right, brown, white); }
+  background-color: black;
+  font-family: "Balsamiq Sans", cursive; }
   .abajo ul {
     width: 100%;
     list-style: none;

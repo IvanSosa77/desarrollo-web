@@ -17,14 +17,6 @@ h1 {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   font-size: 1em; }
 
-#baires {
-  width: 40%;
-  height: 60%; }
-
-.baires {
-  display: flex;
-  justify-content: flex-end; }
-
 .logo {
   text-align: center;
   margin-top: 3em;

@@ -19,9 +19,8 @@ h1 {
 
 .logo {
   text-align: center;
-  margin-top: 1em; }
-  .logo img {
-    width: 30%; }
+  margin-top: 1em;
+  width: auto; }
 
 header {
   margin-top: 2.5%;

@@ -19,8 +19,14 @@ h1{
 
 
 #baires{
-    width: 35%;
-    height: 70%;
+    width: 40%;
+    height: 60%;
+    
+}
+
+.baires{
+    display: flex;
+    justify-content: flex-end;
 }
 
 
@@ -28,7 +34,10 @@ h1{
 
 .logo{
     text-align: center;
-    margin-top: 1em;
+    margin-top: 3em;
+    margin-bottom: 2em;
+    font-size: 100%;
+    
 }
 
 

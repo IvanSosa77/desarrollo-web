@@ -20,31 +20,26 @@ h1{
 
 
 
-.navMenu{
-    margin: 0;
-    a:hover{
-        background-color: brown;
-    }
-    
+.navMenu li a{
+    color: black;
+}
+
+.navMenu li a:hover{
+    color: brown;
 }
 
 
 
 
 .logo{
+    margin-top: 1em;
     text-align: center;
-    margin-top: 3em;
     margin-bottom: 2em;
     font-size: 100%;
     
 }
 
 
-header{
-    margin-top: 2.5%;
-    font-family: $tipografia;
-    
-}
 
 
 #carr{

@@ -17,20 +17,17 @@ h1 {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   font-size: 1em; }
 
-.navMenu {
-  margin: 0; }
-  .navMenu a:hover {
-    background-color: brown; }
+.navMenu li a {
+  color: black; }
+
+.navMenu li a:hover {
+  color: brown; }
 
 .logo {
+  margin-top: 1em;
   text-align: center;
-  margin-top: 3em;
   margin-bottom: 2em;
   font-size: 100%; }
-
-header {
-  margin-top: 2.5%;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif; }
 
 #carr {
   margin: auto;

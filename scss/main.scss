@@ -9,6 +9,16 @@
 }
 
 
+.logo {
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif; }
+
+body {
+    background-color: #D9C3B0; }
+
+.logo {
+    background-image: $headercolor;}
+
+
 
 h1{
     text-align: center;
@@ -129,9 +139,7 @@ img{
     border-radius: 25em;
 }
 
-.detalles h3{
-    margin-bottom: 2em;
-}
+
 
 
 
@@ -167,14 +175,14 @@ img{
 .card img {
     border-radius: 5px 5px 0 0;
     width: 100%;
-    height: 300px;
-    margin: 0;
+    height: auto;
+
 }
 
 
 
 .cont{
-    padding: 2px 16px;	
+    padding: 1%;	
     margin: 0;
 p{
     margin: 0 0 3% 0;
@@ -251,6 +259,7 @@ h2{
     background-color: black;
     font-family: $tipografiainferior;
 
+
 ul{
     width: 100%;
     list-style: none;
@@ -262,15 +271,14 @@ a{
 
 li:hover{
     color:brown;
+
+
 }
 }
 }
 }
 
-
-
-
-
-
-
-
+.abajo img{
+    width: 10%;
+    height: 20%;
+}

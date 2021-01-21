@@ -20,6 +20,15 @@ h1{
 
 
 
+.navMenu{
+    margin: 0;
+    a:hover{
+        background-color: brown;
+    }
+    
+}
+
+
 
 
 .logo{
@@ -131,6 +140,7 @@ img{
 
 .Noticias{
     margin: auto;
+    padding: 1%;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;

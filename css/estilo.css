@@ -17,6 +17,11 @@ h1 {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   font-size: 1em; }
 
+.navMenu {
+  margin: 0; }
+  .navMenu a:hover {
+    background-color: brown; }
+
 .logo {
   text-align: center;
   margin-top: 3em;
@@ -88,6 +93,7 @@ header {
 /*CIUDAD AUTONOMA*/
 .Noticias {
   margin: auto;
+  padding: 1%;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;

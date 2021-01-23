@@ -94,6 +94,9 @@ header {
   margin: 2% 25% 1% 25%;
   border-radius: 25em; }
 
+.hache h3 {
+  margin: 2%; }
+
 /*CIUDAD AUTONOMA*/
 .Noticias {
   margin: auto;
@@ -122,12 +125,11 @@ header {
   margin-top: 1%; }
 
 .cont {
-  padding: 1%;
-  margin: 0; }
+  padding: 1%; }
   .cont p {
     padding: 1%; }
-    .cont p h2 {
-      padding: 1%; }
+    .cont p h3 {
+      padding: 4%; }
 
 /*MUSEO*/
 .museoTitle {

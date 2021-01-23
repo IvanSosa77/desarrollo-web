@@ -12,6 +12,9 @@ body {
   padding: 0;
   box-sizing: border-box; }
 
+.navBar {
+  justify-content: center; }
+
 .logo {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif; }
 
@@ -182,5 +185,5 @@ header {
         color: brown; }
 
 .abajo img {
-  width: 10%;
+  width: 5%;
   height: 20%; }

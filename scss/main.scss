@@ -208,14 +208,27 @@ h3{
 
 
 
+
 .musImg{
+    text-align: center;
+    padding: 3%;
     font-family: $tipografia;
 }
 
 .muss{
+    justify-content: center;
     margin-bottom: 1em;
 
+    img{
+        width: auto;
+        height: auto;
+        border-radius: 5px;
+        box-shadow: 0 20px 20px 0 rgba(0,0,0,0.2);
+    }
+
     p{
+        padding: 3%;
+        margin-top: 1%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 }
